@@ -1,0 +1,40 @@
+.history_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.time {
+  align-self: flex-start;
+  padding-left: 25px;
+  font-family: 'Roboto';
+  align-self: center;
+}
+.website_logo {
+  width: 75px;
+  align-self: center;
+  padding-left: 45px;
+}
+.title {
+  padding-left: 15px;
+  align-self: center;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.url {
+  padding-left: 15px;
+  align-self: center;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+.btn {
+  align-self: flex-end;
+  margin-right: 12px;
+  background-color: transparent;
+  border-width: 0px;
+}
